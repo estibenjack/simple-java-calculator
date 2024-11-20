@@ -36,7 +36,7 @@ Feel free to open issues or submit pull requests if you'd like to contribute to 
 
 ## Credits
 
-Special thanks to the Bro Code YouTube channel for the inspiring coding challenge that led to the creation of this Java Calculator.
+Special thanks to the [Bro Code YouTube Channel](https://www.youtube.com/@BroCodez) for the inspiring coding challenge that led to the creation of this Java Calculator.
 
 ---
 
