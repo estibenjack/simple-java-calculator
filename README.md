@@ -1,5 +1,7 @@
 # Simple Calculator in Java
 
+![Calculator Screenshot](CalculatorScreenshot.png)
+
 A simple, functional calculator built using Java Swing for the graphical user interface (GUI). This project demonstrates basic arithmetic operations such as addition, subtraction, multiplication, and division, with features like decimal input, negation, and error handling for division by zero.
 
 ## Features
