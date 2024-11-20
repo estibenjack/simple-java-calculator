@@ -20,12 +20,24 @@ A simple, functional calculator built using Java Swing for the graphical user in
 
 1. Clone or download the repository.
 2. Compile the Java file:
+```
 javac Calculator.java
-3. Run the program:
+```
+4. Run the program:
+```
 java Calculator
+```
 
 The calculator window will appear, and you can start performing calculations.
 
 ## Contributing
 
 Feel free to open issues or submit pull requests if you'd like to contribute to the project. Contributions are always welcome!
+
+## Credits
+
+Special thanks to the Bro Code YouTube channel for the inspiring coding challenge that led to the creation of this Java Calculator.
+
+---
+
+Happy calculating! If you have any questions, feedback, or encounter any issues with the Java Calculator project, please don't hesitate to reach out.
